@@ -4,3 +4,7 @@ body{
     background-size: cover;
     color: aliceblue;
 }
+
+a{
+    color: chartreuse;
+}
