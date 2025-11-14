@@ -3,6 +3,6 @@
 
 nom du site : dark souls lore
 
-ce site a été crée pour permettre de connaitre l'histoire des jeux dark souls ainsi que leur bosses
+ce site a été crée pour permettre de connaitre l'histoire des jeux dark souls et elden ring ainsi que leur bosses
 
 anakynn renoux
